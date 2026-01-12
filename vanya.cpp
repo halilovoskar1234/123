@@ -1,5 +1,1 @@
-#include <iostream>
-
-int main() {
-    
-}
+меджит за рулем
